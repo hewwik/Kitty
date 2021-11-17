@@ -168,7 +168,7 @@ a{
 	line-height:40px;
 	margin:0 5px;
 	background:white;
-	color:#ea638c;
+	color:#dea5a4;
 	box-shadow:0 5px #CCCCFF;
 	border-radius:4px;
 	text-transform:uppercase;
@@ -177,7 +177,7 @@ a{
 }
 .btn-page-lord:hover{
 	box-shadow:0 5px rgba(234,99,40,.4), 0 0 30px 20px rgba(0,0,0,.2);
-	background:#ea638c;
+	background:#dea5a4;
 	color:white;
 }
 .box-video-lord{
@@ -302,6 +302,6 @@ a{
 	background:white;
 }
 ::-webkit-scrollbar-thumb{
-	background: #920606;
+	background: #dea5a4;
 	© 2021 GitHub, Inc.
 
